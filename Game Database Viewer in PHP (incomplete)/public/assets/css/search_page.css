@@ -1,0 +1,21 @@
+
+.search {
+    background-color: #171717FF;
+    padding: 4px;
+    border-radius: 5px
+}
+.search-2 {
+    position: relative;
+    width: 100%
+}
+
+.search-2 input {
+    background-color: #171717FF;
+    height: 45px;
+    border: none;
+    width: 95%;
+    padding-right: 100px;
+    outline: none;
+    color: #fff;
+}
+

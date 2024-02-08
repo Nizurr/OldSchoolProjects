@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/blue">
+        <file>resources/Blue/1.png</file>
+        <file>resources/Blue/2.png</file>
+        <file>resources/Blue/3.png</file>
+        <file>resources/Blue/4.png</file>
+        <file>resources/Blue/5.png</file>
+        <file>resources/Blue/6.png</file>
+        <file>resources/Blue/7.png</file>
+        <file>resources/Blue/8.png</file>
+        <file>resources/Blue/9.png</file>
+        <file>resources/Blue/10.png</file>
+        <file>resources/Blue/b.png</file>
+        <file>resources/Blue/d.png</file>
+        <file>resources/Blue/x.png</file>
+    </qresource>
+    <qresource prefix="/new/red">
+        <file>resources/Red/1.png</file>
+        <file>resources/Red/2.png</file>
+        <file>resources/Red/3.png</file>
+        <file>resources/Red/4.png</file>
+        <file>resources/Red/5.png</file>
+        <file>resources/Red/6.png</file>
+        <file>resources/Red/7.png</file>
+        <file>resources/Red/8.png</file>
+        <file>resources/Red/9.png</file>
+        <file>resources/Red/10.png</file>
+        <file>resources/Red/b.png</file>
+        <file>resources/Red/d.png</file>
+        <file>resources/Red/x.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/global">
+        <file>resources/stratego-board.png</file>
+    </qresource>
+</RCC>

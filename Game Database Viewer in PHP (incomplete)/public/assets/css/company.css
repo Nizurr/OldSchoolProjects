@@ -1,0 +1,12 @@
+.company {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+.container a:hover {
+    text-decoration: none;
+    color: blue;
+}

@@ -1,0 +1,72 @@
+html {
+    padding: 0;
+    margin: 0;
+
+}
+body {
+    background-color: #0c0c0c;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+
+}
+
+footer {
+    background-color: #101010;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    padding: 5px;
+
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    min-height: 104%; /* 100% + footer height */
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+}
+.homepage-text {
+    position: relative;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    animation: textrotate 5s linear infinite;
+    -webkit-animation: textrotate 5s linear infinite;
+}
+
+/* basé sur https://codepen.io/bijoynd/pen/zYGaJPQ */
+.homepage-text::after{
+    content: ' ';
+    width: 455px;
+    color: white;
+    animation: textrotate 10s linear infinite;
+    -webkit-animation: textrotate 10s linear infinite;
+}
+
+/* basé sur https://codepen.io/bijoynd/pen/zYGaJPQ */
+@keyframes textrotate{
+    0%{
+        content: 'A Website to know how bad is your game';
+    }
+    25%{
+        content: 'A Website to inform you about your game';
+    }
+    50%{
+        content: 'A Website to find them';
+    }
+    75%{
+        content: 'A Website of power';
+    }
+    100%{
+        content: 'A Website to get news about your game';
+    }
+}
+
+
+

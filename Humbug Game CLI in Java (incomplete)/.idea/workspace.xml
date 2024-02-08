@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57c31e32-4231-4a70-8daf-d26caf481c44" name="Default Changelist" comment="3.4. Classe Direction">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet-humbug-2.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/projet-humbug-2.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Bumbelbee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Bumbelbee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Butterfly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Butterfly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Grasshopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Grasshopper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Ladybird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g54435/humbug/model/Ladybird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/g54435/humbug/controller/SnailTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/g54435/humbug/controller/SpiderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/g54435/humbug/model/BoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/g54435/humbug/model/BoardTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZZxGrAehCm4ZVacdca6ickYzxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40229884" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="g54435.humbug.model" />
+      <recent name="g54435.humbug.controller" />
+      <recent name="g54435.humbug.view.text" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="g54435.humbug.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in PROJET-HUMBUG">
+    <configuration name="All in PROJET-HUMBUG" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJET-HUMBUG" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButterflyTest.testMoveAbove2Animal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJET-HUMBUG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g54435.humbug.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g54435.humbug.model" />
+      <option name="MAIN_CLASS_NAME" value="g54435.humbug.model.ButterflyTest" />
+      <option name="METHOD_NAME" value="testMoveAbove2Animal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrasshopperTest.testMoveFailAfterJumpWithWall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJET-HUMBUG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g54435.humbug.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g54435.humbug.model" />
+      <option name="MAIN_CLASS_NAME" value="g54435.humbug.model.GrasshopperTest" />
+      <option name="METHOD_NAME" value="testMoveFailAfterJumpWithWall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LadybirdTest.testMoveFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJET-HUMBUG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g54435.humbug.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g54435.humbug.model" />
+      <option name="MAIN_CLASS_NAME" value="g54435.humbug.model.LadybirdTest" />
+      <option name="METHOD_NAME" value="testMoveFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PROJET-HUMBUG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g54435.humbug.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g54435.humbug.model" />
+      <option name="MAIN_CLASS_NAME" value="g54435.humbug.model.PositionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in PROJET-HUMBUG" />
+        <item itemvalue="JUnit.LadybirdTest.testMoveFail" />
+        <item itemvalue="JUnit.PositionTest" />
+        <item itemvalue="JUnit.GrasshopperTest.testMoveFailAfterJumpWithWall" />
+        <item itemvalue="JUnit.ButterflyTest.testMoveAbove2Animal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57c31e32-4231-4a70-8daf-d26caf481c44" name="Default Changelist" comment="" />
+      <created>1585060324598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585060324598</updated>
+    </task>
+    <task id="LOCAL-00001" summary="3.3. Classe Position">
+      <created>1585066400650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585066400650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3.4. Classe Direction">
+      <created>1585068786166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585068786166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3.3. Classe Position" />
+    <MESSAGE value="3.4. Classe Direction" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.4. Classe Direction" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-699" y="329" key="#Main" timestamp="1588999718173">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-699" y="329" key="#Main/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1588999718173" />
+    <state x="677" y="183" key="#Main/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588936123728" />
+    <state x="677" y="183" key="#Main/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586437204365" />
+    <state x="552" y="183" key="#Project_Structure" timestamp="1585060382339">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1585060382339" />
+    <state x="557" y="180" key="#SnailTest" timestamp="1586439636262">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="180" key="#SnailTest/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586439636262" />
+    <state x="557" y="180" key="#SpiderTest" timestamp="1586442168079">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="180" key="#SpiderTest/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586442168079" />
+    <state x="690" y="280" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585343559037">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="280" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1585343559037" />
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585146886737">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1585146886737" />
+    <state x="-650" y="434" key="#com.intellij.ide.util.MemberChooser" timestamp="1589000485426">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-650" y="434" key="#com.intellij.ide.util.MemberChooser/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589000485426" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588688751252" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586899323162" />
+    <state x="-655" y="691" width="433" height="519" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589182876849">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-655" y="691" width="433" height="519" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589182876849" />
+    <state x="756" y="384" width="433" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586524174004" />
+    <state x="868" y="278" key="#xdebugger.XInspectDialog" timestamp="1586806202503">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="868" y="278" key="#xdebugger.XInspectDialog/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586806202503" />
+    <state x="715" y="228" key="#xdebugger.evaluate" timestamp="1587149486190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="715" y="228" key="#xdebugger.evaluate/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1587149486190" />
+    <state x="591" y="119" key="CommitChangelistDialog2" timestamp="1585406192097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="591" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1585406192097" />
+    <state width="489" height="466" key="DebuggerActiveHint" timestamp="1586796869209">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="489" height="466" key="DebuggerActiveHint/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586796869205" />
+    <state x="-760" y="700" key="FileChooserDialogImpl" timestamp="1588924591455">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-760" y="700" key="FileChooserDialogImpl/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1588924591455" />
+    <state width="1037" height="903" key="GridCell.Tab.0.bottom" timestamp="1589187880550">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="903" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589187880550" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588936442766" />
+    <state width="1037" height="603" key="GridCell.Tab.0.bottom/0.0.1080.1890/1080.0.1920.1050@0.0.1080.1890" timestamp="1588691396334" />
+    <state width="1877" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588686076694" />
+    <state width="1877" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1587153910545" />
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.1.1920.1050@1920.1.1920.1050" timestamp="1585235817149" />
+    <state width="1036" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589031712100" />
+    <state width="1037" height="903" key="GridCell.Tab.0.center" timestamp="1589187880550">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="903" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589187880550" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588936442766" />
+    <state width="1037" height="603" key="GridCell.Tab.0.center/0.0.1080.1890/1080.0.1920.1050@0.0.1080.1890" timestamp="1588691396334" />
+    <state width="1877" height="333" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588686076693" />
+    <state width="1877" height="405" key="GridCell.Tab.0.center/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1587153910545" />
+    <state width="1877" height="304" key="GridCell.Tab.0.center/0.0.1920.1050/1920.1.1920.1050@1920.1.1920.1050" timestamp="1585235817149" />
+    <state width="1036" height="571" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589031712100" />
+    <state width="1037" height="903" key="GridCell.Tab.0.left" timestamp="1589187880550">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="903" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589187880550" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588936442765" />
+    <state width="1037" height="603" key="GridCell.Tab.0.left/0.0.1080.1890/1080.0.1920.1050@0.0.1080.1890" timestamp="1588691396334" />
+    <state width="1877" height="333" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588686076693" />
+    <state width="1877" height="405" key="GridCell.Tab.0.left/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1587153910544" />
+    <state width="1877" height="304" key="GridCell.Tab.0.left/0.0.1920.1050/1920.1.1920.1050@1920.1.1920.1050" timestamp="1585235817149" />
+    <state width="1036" height="571" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589031712100" />
+    <state width="1037" height="903" key="GridCell.Tab.0.right" timestamp="1589187880550">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="903" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589187880550" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588936442766" />
+    <state width="1037" height="603" key="GridCell.Tab.0.right/0.0.1080.1890/1080.0.1920.1050@0.0.1080.1890" timestamp="1588691396334" />
+    <state width="1877" height="333" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588686076694" />
+    <state width="1877" height="405" key="GridCell.Tab.0.right/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1587153910545" />
+    <state width="1877" height="304" key="GridCell.Tab.0.right/0.0.1920.1050/1920.1.1920.1050@1920.1.1920.1050" timestamp="1585235817149" />
+    <state width="1036" height="571" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589031712100" />
+    <state x="-1010" y="600" key="Maven.ArtifactSearchDialog" timestamp="1588992809803">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-1010" y="600" key="Maven.ArtifactSearchDialog/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1588992809803" />
+    <state x="-815" y="647" key="RollbackChangesDialog" timestamp="1589181508456">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-815" y="647" key="RollbackChangesDialog/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589181508456" />
+    <state x="-1076" y="289" key="SettingsEditor" timestamp="1589096666059">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-1076" y="289" key="SettingsEditor/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589096666059" />
+    <state x="7" y="161" key="SettingsEditor/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588932204944" />
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586535199522" />
+    <state width="498" height="803" key="SwitcherDM" timestamp="1589009312231">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state width="498" height="803" key="SwitcherDM/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589009312231" />
+    <state width="500" height="446" key="SwitcherDM/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1587919995737" />
+    <state width="500" height="446" key="SwitcherDM/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586894356015" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1585068802079">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1585068802079" />
+    <state x="776" y="303" key="chooseDestDirectoryDialog" timestamp="1586964919377">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="776" y="303" key="chooseDestDirectoryDialog/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586964919377" />
+    <state x="-852" y="606" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588994774122">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-852" y="606" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1588994774122" />
+    <state x="-669" y="437" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589185212243">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-669" y="437" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589185212243" />
+    <state x="731" y="243" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1585343521347" />
+    <state x="342" y="186" key="new project wizard" timestamp="1588214046957">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="186" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1588214046957" />
+    <state x="-626" y="191" key="refactoring.ChangeSignatureDialog" timestamp="1588857961738">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-626" y="191" key="refactoring.ChangeSignatureDialog/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1588857961738" />
+    <state x="807" y="106" key="refactoring.ChangeSignatureDialog/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586894868062" />
+    <state x="-733" y="437" width="378" height="1219" key="run.anything.popup" timestamp="1589014366758">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-733" y="437" width="378" height="1219" key="run.anything.popup/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589014366758" />
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/-1080.0.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1588929017468" />
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1587072701865" />
+    <state x="-730" y="409" width="672" height="1221" key="search.everywhere.popup" timestamp="1589001364008">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-730" y="409" width="672" height="1221" key="search.everywhere.popup/-1080.0.1080.1890/0.0.1920.1050@-1080.0.1080.1890" timestamp="1589001364008" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588677245193" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.1.1920.1050@0.0.1920.1050" timestamp="1586900300015" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1585269748412" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/g54435/humbug/model/BoardTest.java</url>
+          <line>52</line>
+          <properties class="g54435.humbug.model.BoardTest" method="testIsInside_false_null">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/g54435/humbug/model/BoardTest.java</url>
+          <line>129</line>
+          <properties class="g54435.humbug.model.BoardTest" method="testGetSquareType_null">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((g54435.humbug.model.Square[][])((Board)((BoardTest)this).board).squares)[0]" custom="g54435.humbug.model.BoardTest,g54435.humbug.model.Board,g54435.humbug.model.Square[][]" />
+        <watch expression="board" />
+        <watch expression="nextPos" />
+        <watch expression="((g54435.humbug.model.Square[][])((Board)((BoardTest)this).board).squares)[0]" custom="g54435.humbug.model.BoardTest,g54435.humbug.model.Board,g54435.humbug.model.Square[][]" />
+        <watch expression="((g54435.humbug.model.Square[][])((Board)((BoardTest)this).board).squares)[0]" custom="g54435.humbug.model.BoardTest,g54435.humbug.model.Board,g54435.humbug.model.Square[][]" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="boardToDisplay[8]" />
+        <watch expression="boardToDisplay[8]" />
+        <watch expression="boardToDisplay[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projet_humbug$Main.ic" NAME="Main Coverage Results" MODIFIED="1588862630494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g54435.humbug.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/projet_humbug$SnailTest.ic" NAME="SnailTest Coverage Results" MODIFIED="1585316889329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g54435.humbug.model.animals.*</FILTER>
+    </SUITE>
+  </component>
+</project>

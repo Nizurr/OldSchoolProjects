@@ -1,0 +1,42 @@
+@media (min-width   : 0px) {
+    .header {
+        overflow: hidden;
+        padding: 20px 0px;
+        position: relative;
+    }
+}
+@media (min-width   : 600px) {
+    .header {
+        overflow: hidden;
+        padding: 20px 230px;
+        position: relative;
+    }
+}
+
+@media (min-width   : 600px) {
+    .header {
+        overflow: hidden;
+        padding: 20px 50px;
+        position: relative;
+    }
+}
+
+.header a {
+    font-family: 'Merriweather', serif;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.header a.logo {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.header-right {
+    float: right;
+}

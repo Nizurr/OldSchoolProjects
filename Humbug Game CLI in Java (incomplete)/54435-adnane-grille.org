@@ -1,0 +1,48 @@
+Do not attribute the files you didn't write to yourself (e.g. test files)
+
+-1 Tests do not pass (one error)
+
+ça run
+jouable
+UI OK.
+
+Should add target/ to .gitignore
+
+
+
+
+[ERROR] Failures: 
+[ERROR]   BoardTest.testGetSquareType_null:132 Unexpected exception type thrown ==> expected: <java.lang.IllegalArgumentException> but was: <java.lang.NullPointerException>
+
+[ERROR] Tests run: 27, Failures: 1, Errors: 0, Skipped: 0
+
+
+
+-0.5 use a method when required (.e.g isInside)
+
+-1 using a new variable for each Case
+-0.5 should use animal.length (Snail.move)
+-0.5 if (foo) ... else if (!foo) (seen in Snail)
+-0.25 checking for null after the fact (Game.move)
+-1 Animal, Snail, Spider are in controller
+-0.5 view element (println) in the model (Game)
+-0.25 unnecessary public methods (View)
+
+* Classe Position et tests (2/2)
+* Énum Direction (1/1)
+
+* Classe Board (2/2)
+
+* la vue (3/4)
+
+* Classe Animal (1/1)
+* Classe Snail et tests (1.5/2)
+
+* Classe Spider et tests (1/2)
+the move algorithm looks wrong
+
+* Classe Game et interface Model (4/4)
+
+* Le contrôleur  (1/2)
+* Total sur 20 pour l'itération 1
+16.5 + -5.50 = 11.00/20
